@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Site</title>
-        <link>http://localhost:1313/en/</link>
+        <link>https://blog.xyxyzwn.xyz/en/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>夹星脆-Big_Star</copyright><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>夹星脆-Big_Star</copyright><atom:link href="https://blog.xyxyzwn.xyz/en/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

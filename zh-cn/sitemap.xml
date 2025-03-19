@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.xyxyzwn.xyz/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://blog.xyxyzwn.xyz/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/"
+                href="https://blog.xyxyzwn.xyz/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://blog.xyxyzwn.xyz/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                href="https://blog.xyxyzwn.xyz/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://blog.xyxyzwn.xyz/post/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%9B%BE%E8%B5%8F/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/%E5%9B%BE%E8%B5%8F/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/%E5%9B%BE%E8%B5%8F%E7%AC%AC%E4%B8%80%E6%9C%9F_%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</loc>
+    <loc>https://blog.xyxyzwn.xyz/p/%E5%9B%BE%E8%B5%8F%E7%AC%AC%E4%B8%80%E6%9C%9F_%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cxslg/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/cxslg/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ql/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/ql/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E7%A8%8B%E5%B0%8F%E6%97%B6/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/%E7%A8%8B%E5%B0%8F%E6%97%B6/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/%E7%A8%8B%E5%B0%8F%E6%97%B6%E4%B8%8E%E9%99%86%E5%85%89-%E5%AE%BF%E5%91%BD%E7%BA%A0%E7%BC%A0%E7%9A%84%E5%8F%8C%E7%94%9F%E7%81%AB%E7%84%B0/</loc>
+    <loc>https://blog.xyxyzwn.xyz/p/%E7%A8%8B%E5%B0%8F%E6%97%B6%E4%B8%8E%E9%99%86%E5%85%89-%E5%AE%BF%E5%91%BD%E7%BA%A0%E7%BC%A0%E7%9A%84%E5%8F%8C%E7%94%9F%E7%81%AB%E7%84%B0/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%99%86%E5%85%89/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/%E9%99%86%E5%85%89/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E4%B9%94%E8%8B%93/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/%E4%B9%94%E8%8B%93/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/%E4%B9%94%E8%8B%93/</loc>
+    <loc>https://blog.xyxyzwn.xyz/p/%E4%B9%94%E8%8B%93/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cxs/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/cxs/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/lg/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/lg/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/%E7%A8%8B%E5%B0%8F%E6%97%B6/</loc>
+    <loc>https://blog.xyxyzwn.xyz/p/%E7%A8%8B%E5%B0%8F%E6%97%B6/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/%E9%99%86%E5%85%89/</loc>
+    <loc>https://blog.xyxyzwn.xyz/p/%E9%99%86%E5%85%89/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://blog.xyxyzwn.xyz/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://blog.xyxyzwn.xyz/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://blog.xyxyzwn.xyz/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://blog.xyxyzwn.xyz/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://blog.xyxyzwn.xyz/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.xyxyzwn.xyz/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://blog.xyxyzwn.xyz/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/tags/"
+                href="https://blog.xyxyzwn.xyz/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://blog.xyxyzwn.xyz/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://blog.xyxyzwn.xyz/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
